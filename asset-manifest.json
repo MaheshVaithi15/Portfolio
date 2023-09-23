@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MaheshVaithi15/Portfolio.git/static/css/main.cc2b7348.css",
+    "main.js": "/MaheshVaithi15/Portfolio.git/static/js/main.8fad44bb.js",
+    "static/media/imgbg.png": "/MaheshVaithi15/Portfolio.git/static/media/imgbg.0824c8c73a6167cda05c.png",
+    "static/media/cdc.png": "/MaheshVaithi15/Portfolio.git/static/media/cdc.d55c04ed0968ce8c437d.png",
+    "static/media/epa.png": "/MaheshVaithi15/Portfolio.git/static/media/epa.2fbd19c00f584095465c.png",
+    "static/media/smcsm.png": "/MaheshVaithi15/Portfolio.git/static/media/smcsm.0c86d0b7fde58301740e.png",
+    "static/media/frontend.png": "/MaheshVaithi15/Portfolio.git/static/media/frontend.c44b0295004ae03580d2.png",
+    "static/media/dbtech.png": "/MaheshVaithi15/Portfolio.git/static/media/dbtech.2499b4948210ccbdf426.png",
+    "static/media/mlogo.png": "/MaheshVaithi15/Portfolio.git/static/media/mlogo.6ed6ce8364a392854b26.png",
+    "static/media/program.png": "/MaheshVaithi15/Portfolio.git/static/media/program.2a61c418615dd01f5101.png",
+    "static/media/pyframeworks.png": "/MaheshVaithi15/Portfolio.git/static/media/pyframeworks.92f2abbe750318cb5bf1.png",
+    "static/media/insta.png": "/MaheshVaithi15/Portfolio.git/static/media/insta.0bcd1dcb7d853c327af7.png",
+    "index.html": "/MaheshVaithi15/Portfolio.git/index.html",
+    "main.cc2b7348.css.map": "/MaheshVaithi15/Portfolio.git/static/css/main.cc2b7348.css.map",
+    "main.8fad44bb.js.map": "/MaheshVaithi15/Portfolio.git/static/js/main.8fad44bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2b7348.css",
+    "static/js/main.8fad44bb.js"
+  ]
+}
